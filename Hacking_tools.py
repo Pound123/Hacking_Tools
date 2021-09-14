@@ -88,7 +88,7 @@ elif Select == "3":
 elif Select == "4":
   Nikto()
 elif Select == "5":
-  Exiftools()
+  Exiftool()
 elif Select == "0":
   print(white + "\n\t[" + red + "Thanks" + white + "]")
   sys.exit()
